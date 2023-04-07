@@ -53,7 +53,7 @@ ul {
 
 .nav__burger {
     border: none;
-    outline-none;
+    outline: none;
     background: #41A28E;
     color: #fff;
     font-size: 22px;
